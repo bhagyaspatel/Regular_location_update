@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Regular_location_update</string>
+    <string name="location_permission_rationale">Need permission to access your location. Please provide permission when asked.</string>
+</resources>
